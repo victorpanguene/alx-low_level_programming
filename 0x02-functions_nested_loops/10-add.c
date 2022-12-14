@@ -5,7 +5,7 @@
  * the result.
  *
  * @a: number one.
- * @a: number two.
+ * @b: number two.
  *
  *
  * Return: Add of number one and number two.
