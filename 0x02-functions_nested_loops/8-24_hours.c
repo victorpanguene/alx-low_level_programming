@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * jack_bauer - prints all minutes in a day from 00:00
- * Return:0 if succeesful.
+*jack_bauer-prints all minutes in a day from 00:00
+*Return:0 if succeesful.
 */
 void jack_bauer(void)
 {
@@ -18,7 +18,7 @@ void jack_bauer(void)
 					if (i == 2 && j > 3)
 					{
 						break;
-					 }
+					}
 					_putchar(i + '0');
 					_putchar(j + '0');
 					_putchar(':');
