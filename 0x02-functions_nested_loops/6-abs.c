@@ -1,7 +1,7 @@
 #include "main.h"
 
-/*
- * @abs:prints the absolute value of an integer.
+/**
+ * _abs - prints the absolute value of an integer.
  * @a:the integer to compute its absolute value.
  * @absvalue is the abs value.
  * Return:returns the abs value.
